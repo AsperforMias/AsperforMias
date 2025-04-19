@@ -1,7 +1,8 @@
 <h1 align="center">Hi~ I'm Asperformias  ~ ♡ </h1>
 <p align="center">The inescapable lot of solitude.</p>
-<img src="./solitude.jpg" width="320px" align="center">
-
+<p align="center">
+  <img src="./solitude.jpg" width="320px">
+</p>
 ## 📖About
 
 Just a mediocre student. I set foot the computer world with cybersecurity and some simple penetration. For me, computing feels less like an 'industry,' 'job,' or 'interest,' and more like a kind of... fate?
