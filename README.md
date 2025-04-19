@@ -1,7 +1,7 @@
 <h1 align="center">Hi~ I'm Asperformias  ~ ♡ </h1>
 <p align="center">The inescapable lot of solitude.</p>
 <p align="center">
-  <img src="./bg1.avif" width="320px">
+  <img src="./bg1.avif">
 </p>
 ## 📖About
 
