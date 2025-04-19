@@ -1,6 +1,6 @@
 <h1 align="center">Hi~ I'm Asperformias  ~ ♡ </h1>
 <p align="center">
-  <img src="./bg1.avif">
+  <img src="./bg1.avif" style="height:400px">
 </p>
 
 ## 📖About
