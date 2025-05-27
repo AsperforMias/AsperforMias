@@ -1,6 +1,8 @@
 <h1 align="center">Hi~ I'm Asperformias  ~ ♡ </h1>
 <p align="center">
-  <img src="./bg1.avif" style="height:400px">
+  <img align="right" src="./imgs/pic1.jpg" style="height:400px" alt="shino1" title="shino1"  />
+  <img src="./imgs/bg2.jpg" style="height:220px" alt="shino2" title="shino2"  />
+  <img src="./imgs/pic5.png" style="height:220px" alt="shino3" title="shino3"  />
 </p>
 
 ## 📖About
