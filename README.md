@@ -17,7 +17,7 @@ Just a mediocre student. I set foot the computer world with cybersecurity and so
 
 ### OS
 
-![OS](https://skillicons.dev/icons?i=kali,ubuntu,arch,nix,linux,windows&theme=dark&perline=15)
+![OS](https://skillicons.dev/icons?i=apple,kali,ubuntu,arch,nix,linux,windows&theme=dark&perline=15)
 
 ### Language & Frameworks
 ![Language&Frameworks](https://skillicons.dev/icons?i=cpp,html,javascript,c,java,python,rust,markdown,solidjs,django,flask,sqlite,mysql,nodejs,astro,vite,react,nextjs&theme=dark&perline=15)
