@@ -7,7 +7,7 @@
 
 ## 📖About
 
-Just a mediocre student. I set foot the computer world with cybersecurity and some simple penetration. Now, I'm working towards SE & full-stack DEV. For me, computer technoledge feels less like an 'industry', 'job', or 'interest', and more like a kind of... 'fate' ?
+Just a mediocre student. I set foot the computer world with cybersecurity and some simple penetration.Before, I'm curious about Frontend-oriented full-stack. Now, I'm working towards Backend Architect. For me, computer technoledge feels less like an 'industry', 'job', or 'interest', and more like a kind of... 'fate' ?
 
 ## 🧑‍🤝‍🧑Visitors
 
