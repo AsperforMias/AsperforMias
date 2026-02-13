@@ -20,8 +20,8 @@ Just a mediocre student. I set foot the computer world with cybersecurity and so
 ![OS](https://skillicons.dev/icons?i=apple,debian,kali,ubuntu,arch,linux,windows&theme=dark&perline=15)
 
 ### Language & Frameworks
-![Language&Frameworks](https://skillicons.dev/icons?i=html,css,javascript,golang,java,python,rust,cpp,markdown,solidjs,django,flask,sqlite,postgresql,nodejs,vite,vue,react,nextjs&theme=dark&perline=15)
+![Language&Frameworks](https://skillicons.dev/icons?i=html,css,javascript,golang,java,python,rust,markdown,solidjs,django,flask,sqlite,postgresql,nodejs,vite,nextjs&theme=dark&perline=15)
 
 ### Tool
 
-![Tool](https://skillicons.dev/icons?i=vscode,codepen,docker,cloudflare,git,stackoverflow,gcp,vercel,azure,bash,vim,idea&theme=dark&perline=15)
+![Tool](https://skillicons.dev/icons?i=vscode,docker,cloudflare,git,stackoverflow,gcp,vercel,azure,idea&theme=dark&perline=15)
