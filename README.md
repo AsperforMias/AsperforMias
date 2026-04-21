@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Asperformias  ~ ♡ </h1>
 
-<div align="center">
-<img src="imgs/universe.jpg" width="400" align="left" hspace="16">
+<div align="left">
+<img src="imgs/universe.jpg" width="400" align="right" hspace="16">
 
 <strong>Self-introduction:</strong>
 Just a mediocre student, working towards <strong>Backend Architect</strong>&<strong>Infra(Paas/SRE)</strong>. For me, computer technoledge feels less like an 'industry', 'job', or 'interest', and more like a kind of... 'fate' ?
