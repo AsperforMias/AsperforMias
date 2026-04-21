@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td width="35%" valign="top">
-<img src="imgs/universe.jpg" width="350">
+<img src="imgs/universe.jpg" width="400">
 </td>
 <td width="65%" valign="top">
 
