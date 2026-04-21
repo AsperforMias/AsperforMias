@@ -1,22 +1,16 @@
 <h1 align="center">Hi, I'm Asperformias  ~ ♡ </h1>
 
 <div align="center">
-  
-<table width="100%" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td width="35%" valign="top" style="border: none;">
-<img src="imgs/universe.jpg" width="400" style="border: none;">
-</td>
-<td width="65%" valign="top" style="border: none;">
+<img src="imgs/universe.jpg" width="400" align="left" hspace="16">
+
 <strong>Self-introduction:</strong>
 Just a mediocre student, working towards <strong>Backend Architect</strong>&<strong>Infra(Paas/SRE)</strong>. For me, computer technoledge feels less like an 'industry', 'job', or 'interest', and more like a kind of... 'fate' ?
 
 Btw, I'm also worked on Biological Information (prefered genes and proteins combined with AI) at a research institute in university. Train specific PLM for predicting high-active&high-throughput genomes, excavate NLRs, and predict stability, etc.
 
 Want a job which can feeds my living.
-</td>
-</tr>
-</table>
+
+<br clear="left"/>
 
 </div>
 
