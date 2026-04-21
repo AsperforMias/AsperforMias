@@ -2,13 +2,12 @@
 
 <div align="center">
   
-<table width="100%">
-<tr>
-<td width="35%" valign="top">
-<img src="imgs/universe.jpg" width="400">
+<table width="100%" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="35%" valign="top" style="border: none;">
+<img src="imgs/universe.jpg" width="400" style="border: none;">
 </td>
-<td width="65%" valign="top">
-
+<td width="65%" valign="top" style="border: none;">
 <strong>Self-introduction:</strong>
 Just a mediocre student, working towards <strong>Backend Architect</strong>&<strong>Infra(Paas/SRE)</strong>. For me, computer technoledge feels less like an 'industry', 'job', or 'interest', and more like a kind of... 'fate' ?
 
@@ -18,6 +17,7 @@ Want a job which can feeds my living.
 </td>
 </tr>
 </table>
+
 </div>
 
 ## Visitors
