@@ -1,19 +1,30 @@
-<h1 align="center">Hi~ I'm Asperformias  ~ ♡ </h1>
-<p align="center">
-  <img align="right" src="./imgs/pic1.jpg" style="height:405px" alt="shino1" title="shino1"  />
-  <img src="./imgs/bg3.jpg" style="height:200px" alt="shino2" title="shino2"  />
-  <img src="./imgs/bg2.jpg" style="height:200px" alt="shino3" title="shino3"  />
-</p>
+<h1 align="center">Hi, I'm Asperformias  ~ ♡ </h1>
 
-## 📖About
+<div align="center">
+  
+<table width="100%">
+<tr>
+<td width="35%" valign="top">
+<img src="imgs/universe.jpg" width="350">
+</td>
+<td width="65%" valign="top">
 
-Just a mediocre student. I set foot the computer world with cybersecurity and some simple penetration.Before, I'm curious about Frontend-oriented full-stack. Now, I'm working towards Backend Architect. For me, computer technoledge feels less like an 'industry', 'job', or 'interest', and more like a kind of... 'fate' ?
+<strong>Self-introduction:</strong>
+Just a mediocre student, working towards <strong>Backend Architect</strong>&<strong>Infra(Paas/SRE)</strong>. For me, computer technoledge feels less like an 'industry', 'job', or 'interest', and more like a kind of... 'fate' ?
 
-## 🧑‍🤝‍🧑Visitors
+Btw, I'm also worked on Biological Information (prefered genes and proteins combined with AI) at a research institute in university. Train specific PLM for predicting high-active&high-throughput genomes, excavate NLRs, and predict stability, etc.
+
+Want a job which can feeds my living.
+</td>
+</tr>
+</table>
+</div>
+
+## Visitors
 
 ![Visitor Count](https://count.getloli.com/get/@:AsperforMias)
 
-## 💻 Skills
+## Skills
 
 ### OS
 
