@@ -11,9 +11,11 @@ Btw, I'm also worked on Biological Information (prefered genes and proteins comb
 Want a job which can feeds my living.
 
 - Backend Owner @ ghfind.com & dshfind.com
+- Member @ [FindAny](https://github.com/FindAny)
 - Collaborator @ Dify's [Mosoo](https://github.com/langgenius/mosoo/) mosoo.ai
 - Collaborator @ OceanBase [PowerContext](https://github.com/oceanbase/powercontext)
 - Collaborator @ Apache [Dubbogo gost](https://github.com/dubbogo/gost)
+- Collaborator @ [Yuiju](https://github.com/yixiaojiu/yuiju)
 - Backend Engineer @ Modaleap Open Platform (Present)
 
 <br clear="left"/>
