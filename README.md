@@ -10,7 +10,7 @@ Btw, I'm also worked on Biological Information (prefered genes and proteins comb
 
 Want a job which can feeds my living.
 
-- Backend Owner @ ghfind.com & dshfind.com
+- Backend Owner @ [ghfind.com](https://ghfind.com) & [dshfind.com](https://dshfind.com)
 - Member @ [FindAny](https://github.com/FindAny)
 - Collaborator @ Dify's [Mosoo](https://github.com/langgenius/mosoo/) mosoo.ai
 - Collaborator @ OceanBase [PowerContext](https://github.com/oceanbase/powercontext)
